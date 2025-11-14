@@ -25,3 +25,11 @@ git commit -m "comment….”
 git push origin main
 
 --------------------->
+
+######
+
+git push -u origin main
+
+now you can just use just git push from here onwards, (-u allows that, makes that repository our main or favorite repository)
+
+######
