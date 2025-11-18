@@ -28,7 +28,7 @@ git push origin main
 
 ######
 
-git push -u origin main
+git push origin main -u
 
 now you can just use git push from here onwards, (-u allows that, makes that repository our main or favorite repository)
 
